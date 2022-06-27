@@ -1,5 +1,7 @@
 # Hi There, I'm Neeraj! 👋
 
+#### 💻 I'm currently working at [Turtlemint](https://www.turtlemint.com/)
+#### 🤓 I'm a full stack developer working with ReactJS, Django, & Postgres
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nnneeerrraaajjj&theme=radical" />
 
